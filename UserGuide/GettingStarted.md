@@ -1,1 +1,12 @@
 
+## Documentation Management System 
+
+This is the Editor used for documentation system. 
+It is a simple *markdown* editor. 
+However, the editor excepts any and all types of files. 
+
+### Add Files
+
+Adding files is easy and adding feedback is also made possible. 
+
+To learn more about interactive feedback button input, you can refer to the Readme file.
