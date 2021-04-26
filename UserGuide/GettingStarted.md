@@ -10,3 +10,11 @@ However, the editor excepts any and all types of files.
 Adding files is easy and adding feedback is also made possible. 
 
 To learn more about interactive feedback button input, you can refer to the Readme file.
+
+You can also add lists and make your document easier to read. 
+
+- Orange
+- Banana
+- Apple
+- Mango
+- Strawberry
