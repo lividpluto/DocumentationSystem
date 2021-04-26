@@ -19,4 +19,3 @@ You can also add lists and make your document easier to read.
 - Mango
 - Strawberry
 
-Track your changes before publishing and make sure you made no mistakes. Any comments and additions by third parties are also checked before a commit. 
